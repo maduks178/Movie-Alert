@@ -1,9 +1,10 @@
+
 {
   "detector": "venue_date",
-  "movie": "Avengers: Doomsday",
-  "requested_date": "20261217",
-  "venue_code": "RAKK",
-  "venue_label": "Rakki Cinemas: OMR, Kelambakkam",
-  "url_template": "https://in.bookmyshow.com/movies/chennai/avengers-doomsday/buytickets/ET00526287/{date}",
+  "movie": "Ramayana",
+  "requested_date": "20261120",
+  "venue_code": "ACKB",
+  "venue_label": "AMB Cinemas Kapali: Bengaluru",
+  "url_template": "https://in.bookmyshow.com/movies/bengaluru/ramayana/buytickets/ET00523244/{date}?etCodes=ET00523244&language=hindi&refEventCode=ET00523244",
   "min_references": 10
 }
